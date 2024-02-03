@@ -40,7 +40,7 @@ My dashboard should answer the following:
 - Avg Weekly Sales Per Store
 - Proportion of Weekly Sales by Holiday vs. Non-Holiday
 - Weekly Sales by Temperature and Store
-- Fuel Price Variation by StoreDashboard Details
+- Fuel Price Variation by Store
 
 Dashboard Details:
 ![Dashboard](https://github.com/AbdallaTamer/Walmart-Stores-Analysis/assets/146376543/419a939d-5ebd-4cdc-9ee3-9a1e94dcc074)
